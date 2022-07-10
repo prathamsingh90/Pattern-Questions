@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-/* Printing Pattern
+/* 
+
+Printing Pattern:
 
 *
 **
